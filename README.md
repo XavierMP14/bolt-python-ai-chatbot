@@ -1,4 +1,4 @@
-# Slack AI Chatbot
+sa# Slack AI Chatbot
 
 This Slack chatbot app template offers a customizable solution for integrating AI-powered conversations into your Slack workspace. Here's what the app can do out of the box:
 
